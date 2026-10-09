@@ -1,0 +1,8 @@
+{
+  "appId": "com.eldoria.ashes",
+  "appName": "Ashes of Eldoria",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
